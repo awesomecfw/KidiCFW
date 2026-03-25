@@ -6,7 +6,7 @@ Multiple exploits for the DX2/DX3 Kidizoom Watch.
 We are a group of people trying to find exploits for a watch that we all remember from our childhood.
 
 # Is it finished?
-No, our team is still trying to find atleast a working exploit.
+No, our team did find a userland exploit but not a kernel exploit
 
 # Contributors:
 - tommyfart.dll
