@@ -1,1 +1,2 @@
-.
+# An archive of some of the Dx3 apps
+for testing purposes
