@@ -13,6 +13,7 @@ No, our team did find a userland exploit but not a kernel exploit
 - lucidity233
 - MikeNiteYT
 - /usr/bin/umi
+- ReviloRules
 
 # Special Thanks
 To HowToFix12342, since he quitted on Kidizoom Unleashed which is linked below these, we decided to create something like that.
