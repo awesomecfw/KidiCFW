@@ -1,3 +1,4 @@
+![Preview](Images/193819-1_large7.png)
 [![Join the Discord](https://img.shields.io/badge/KidiCFW-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/XMe2N63gxv)
 # KidiCFW
 Multiple exploits for the DX2/DX3 Kidizoom Watch.
