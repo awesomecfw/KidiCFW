@@ -15,6 +15,7 @@ Yes, our team did find a userland and a kernel exploit, the loader is just getti
 - MikeNiteYT
 - /usr/bin/umi
 - ReviloRules
+- cuda_ (website developer)
 
 # Special Thanks
 To HowToFix12342, since he quitted on Kidizoom Unleashed which is linked below these, we decided to create something like that.
