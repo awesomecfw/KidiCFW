@@ -12,7 +12,7 @@ Yes its done, will release the tutorial how to flash but os not made properly :(
 # Contributors:
 - tommyfart.dll
 - lucidity233
-- MikeNiteYT
+- MikeNiteMii
 - /usr/bin/umi
 - ReviloRules
 - Sajid
